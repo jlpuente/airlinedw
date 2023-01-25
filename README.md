@@ -1,2 +1,1 @@
-# airlinedw
-Data warehouse design of the airline case study.
+# Data warehouse design for the airline case study.
