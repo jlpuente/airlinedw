@@ -3,3 +3,4 @@ In this repository I have uploaded the files I made to build a data warehouse wi
 1. designing the data warehouse, that is, dimensional hierarchy and fact table, that suit both requirements and data source (read "1. Data warehouse_design.pdf")
 2. coding a script in SQL language to fully implement the data warehouse on Oracle SQL Developer and generating star schema on Oracle Data Modeler (read "2. Data warehouse_implementation.pdf")
 3. loading the input data (from CSV files) into the database by applying ETL transformations on the intermediate main stream of data (read "3. Data warehouse_etl.pdf")
+4. visualizing business targets with Power BI
